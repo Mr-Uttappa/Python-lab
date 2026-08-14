@@ -29,7 +29,7 @@ git commit -m "Initial commit"
 
 ### 5. Connect your local repo to GitHub
 ```bash
-git remote add origin https://github.com/Uttappa-k/Python-lab.git
+git remote add origin https://github.com/MR-Uttappa/Python-lab.git
 ```
 
 ### 6. Push your code
